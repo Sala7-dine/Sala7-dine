@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salahdine DAHA</h1>
-<h4 align="center">I am a technician specialized in digital development 👨‍💻. I possess a strong collaborative mindset 🤝 and exceptional adaptability 🌟. I am deeply motivated to consistently enhance my skills 📈 and advance my professional growth 🚀.</h4>
+<h3 align="center">I am a technician specialized in digital development 👨‍💻. I possess a strong collaborative mindset 🤝 and exceptional adaptability 🌟. I am deeply motivated to consistently enhance my skills 📈 and advance my professional growth 🚀.</h3>
 
 <img align="right" alt="Coding" width="500" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
 
