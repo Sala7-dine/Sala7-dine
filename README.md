@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salahdine DAHA</h1>
 <h3 align="center">I am a technician specialized in digital development 👨‍💻. I possess a strong collaborative mindset 🤝 and exceptional adaptability 🌟. I am deeply motivated to consistently enhance my skills 📈 and advance my professional growth 🚀.</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)" >
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sala7-dine&label=Profile%20views&color=0e75b6&style=flat" alt="sala7-dine" /> </p>
 
