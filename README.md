@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salahdine DAHA</h1>
-<h3 align="center">I am a technician specialized in digital development 👨‍💻. I possess a strong collaborative mindset 🤝 and exceptional adaptability 🌟. I am deeply motivated to consistently enhance my skills 📈 and advance my professional growth 🚀.</h3>
+<h4 align="center">I am a technician specialized in digital development 👨‍💻. I possess a strong collaborative mindset 🤝 and exceptional adaptability 🌟. I am deeply motivated to consistently enhance my skills 📈 and advance my professional growth 🚀.</h4>
 
 <img align="right" alt="Coding" width="500" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/salahdaha7" target="blank"><img src="https://img.shields.io/twitter/follow/salahdaha7?logo=twitter&style=for-the-badge" alt="salahdaha7" /></a> </p>
 
-- 🌱 I’m currently learning **C, PHP, and problem solving**
+- 🌱 I’m currently learning **PHP, and problem solving**
 
 - 📫 How to reach me **salahdaha7@gmail.com**
 
