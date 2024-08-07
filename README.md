@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salahdine DAHA</h1>
 <h3 align="center">I am a technician specialized in digital development 👨‍💻. I possess a strong collaborative mindset 🤝 and exceptional adaptability 🌟. I am deeply motivated to consistently enhance my skills 📈 and advance my professional growth 🚀.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
+<img align="right" alt="Coding" width="600" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sala7-dine&label=Profile%20views&color=0e75b6&style=flat" alt="sala7-dine" /> </p>
