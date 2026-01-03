@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salahdine DAHA</h1>
 <h3 align="center">
 Full-Stack Web Developer 👨‍💻 <br/>
-Specialized in modern web technologies and scalable applications 🚀
+Specialized in scalable web applications & DevOps 🚀
 </h3>
 
 <img align="right" alt="Coding" width="450"
@@ -16,10 +16,11 @@ src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~
 ### 👨‍💻 About Me
 
 - 🎓 **Technicien spécialisé en développement digital**
-- 💼 **Full-Stack Web Developer** (Frontend & Backend)
-- 🌍 Experience in **Freelance & Professional Projects**
-- 🚀 Passionate about **clean code, DevOps & scalable systems**
-- 🌱 Currently learning **Advanced PHP, Software Architecture & Problem Solving**
+- 💼 **Full-Stack Web Developer**
+- 🌍 Freelance & professional experience (Morocco & Netherlands)
+- 🧠 Strong problem-solving mindset
+- 🚀 Passionate about **clean architecture, DevOps & performance**
+- 🌱 Currently improving skills in **PHP, Backend Architecture & CI/CD**
 
 ---
 
@@ -29,11 +30,13 @@ src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~
 - HTML, CSS, JavaScript
 - React.js, Next.js
 - Tailwind CSS, Redux
+- Figma
 
 #### Backend
 - PHP, Node.js, TypeScript
 - Express.js, NestJS
 - Laravel, Symfony
+- Java, Spring Boot
 
 #### Databases
 - MySQL, PostgreSQL
@@ -41,43 +44,65 @@ src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~
 - Redis
 
 #### DevOps & Tools
-- Docker, Git, GitHub, GitLab
+- Docker, Git
+- GitHub, GitLab
 - CI/CD (GitHub Actions)
 - AWS, Heroku
-- Postman, Jira, Swagger
+- Postman, Swagger
+- Jira, YouTrack
+- SonarQube
+
+---
+
+### 💼 Professional Experience
+
+#### 💻 Freelance Web Developer  
+📍 Morocco – Netherlands  
+- Development of full-stack web applications
+- REST APIs & frontend integration
+- Deployment & maintenance
+
+#### 🏢 Web Development Intern – Izydesk  
+📍 Tangier, Morocco  
+- Web application development
+- Backend & frontend collaboration
+
+#### 🏢 Final Project Internship – Infomolh  
+📍 Tinghir, Morocco  
+- Full-stack project development
+- Real-world application delivery
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🛒 E-MARKET
-**Tech:** React.js, Redux, Node.js, Express, MongoDB, Docker, CI/CD  
-- Full-stack e-commerce application
+**Tech:** React.js, Redux, Node.js, Express.js, MongoDB, Docker, CI/CD  
 - Secure REST API
-- Dockerized architecture
-- Cloud deployment
+- Modular architecture
+- Automated tests & cloud deployment
 
-🔗 Frontend: https://emarket-front-c3b1f58a650e.herokuapp.com/
+🔗 https://emarket-front-c3b1f58a650e.herokuapp.com/
 
 ---
 
 #### 🚚 Navix
-**Tech:** Node.js, Express, MongoDB, React, Docker  
-- Fleet management system
-- Fuel, maintenance & reports
-- Role management (Admin / Driver)
+**Tech:** Node.js, Express.js, MongoDB, React.js, Redux, Docker, JWT  
+- Fleet & fuel management system
+- Admin / Driver roles
+- Reports & analytics
 
 🔗 GitHub: https://github.com/Sala7-dine/Navix.git
 
 ---
 
-#### 🌱 EcoShift (Hackathon Winner 🏆)
-**Tech:** Java, Spring Boot, Next.js, TimescaleDB, Docker  
-- CO₂ analysis platform
+#### 🌱 EcoShift – Hackathon Winner 🏆  
+**Tech:** Java, Spring Boot, Next.js, TimescaleDB, Redis, Docker  
+- CO₂ data analysis platform
 - Multi-tenant dashboard
 - DevOps pipelines & monitoring
 
-🔗 Live: https://ecoshift.code-z.app/
+🔗 https://ecoshift.code-z.app/
 
 ---
 
@@ -90,7 +115,7 @@ src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact
 
 <p align="left">
 <a href="https://www.linkedin.com/in/salahdinedaha/" target="_blank">
@@ -104,7 +129,7 @@ src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~
 </a>
 </p>
 
-📧 Email: **salahdaha7@gmail.com**
+📧 **salahdaha7@gmail.com**
 
 ---
 
