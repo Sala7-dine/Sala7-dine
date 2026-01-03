@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salahdine Daha</h1>
 <h3 align="center">Full-Stack Web Developer 👨‍💻 Specialized in scalable web applications & DevOps 🚀</h3>
 
-<p align="left"> <img src="https://github.com/Sala7-dine/Sala7-dine/blob/main/github-banner.png" alt="sala7-dine" /> </p>
+<p align="left"> <img src="https://github.com/Sala7-dine/Sala7-dine/main/github-banner.png" alt="sala7-dine" /> </p>
 
 - 🌱 I’m currently learning **Software Architecture Clean Code & Design Patterns CI/CD & Cloud Deployment (AWS, Docker)**
 
